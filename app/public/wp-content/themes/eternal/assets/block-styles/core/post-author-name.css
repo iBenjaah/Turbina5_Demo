@@ -1,0 +1,8 @@
+.wp-block-post-author-name.is-style-links-plain a.wp-block-post-author-name__link,
+.wp-block-post-author-name.is-style-links-underline-on-hover a.wp-block-post-author-name__link {
+	text-decoration: none;
+}
+
+.wp-block-post-author-name.is-style-links-underline-on-hover a.wp-block-post-author-name__link:hover {
+	text-decoration: underline;
+}

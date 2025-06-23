@@ -1,0 +1,33 @@
+.wp-block-site-title.is-style-gradient-text-1:not(.has-background) {
+	background: var(--wp--preset--gradient--accent-to-accent-2);
+}
+
+.wp-block-site-title.is-style-gradient-text-2:not(.has-background) {
+	background: var(--wp--preset--gradient--accent-2-to-accent-3);
+}
+
+.wp-block-site-title.is-style-gradient-text-3:not(.has-background) {
+	background: var(--wp--preset--gradient--accent-3-to-accent-1);
+}
+
+.wp-block-site-title.is-style-gradient-text-4:not(.has-background) {
+	background: var(--wp--preset--gradient--accent-to-accent-3);
+}
+
+.wp-block-site-title.is-style-gradient-text-1:not(.has-background),
+.wp-block-site-title.is-style-gradient-text-2:not(.has-background),
+.wp-block-site-title.is-style-gradient-text-3:not(.has-background),
+.wp-block-site-title.is-style-gradient-text-4:not(.has-background) {
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	-webkit-background-clip: text;
+}
+
+.wp-block-site-title.is-style-links-plain a,
+.wp-block-site-title.is-style-links-underline-on-hover a {
+	text-decoration: none;
+}
+
+.wp-block-site-title.is-style-links-underline-on-hover a:hover {
+	text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+ul.wp-block-categories-list.is-style-inline {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+ul.wp-block-categories-list.is-style-inline > li {
+	padding: 0 1.5em 0 0;
+}
+
+.wp-block-categories.is-style-links-plain a,
+.wp-block-categories.is-style-links-underline-on-hover a {
+	text-decoration: none;
+}
+
+.wp-block-categories.is-style-links-underline-on-hover a:hover {
+	text-decoration: underline;
+}

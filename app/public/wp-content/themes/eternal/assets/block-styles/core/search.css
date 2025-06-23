@@ -1,0 +1,4 @@
+.wp-block-search.is-style-no-border .wp-block-search__input,
+.wp-block-search.is-style-no-border .wp-block-search__inside-wrapper {
+	border-color: transparent;
+}

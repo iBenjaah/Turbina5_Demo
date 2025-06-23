@@ -1,0 +1,103 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"version": 3,
+	"title": "Dark",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#ffffff"
+				},
+				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#292f33"
+				},
+				{
+					"slug": "accent-1",
+					"name": "Accent 1",
+					"color": "#1976d2"
+				},
+				{
+					"slug": "accent-1-transparent",
+					"name": "Accent 1 Transparent",
+					"color": "#1976d20f"
+				},
+				{
+					"slug": "accent-2",
+					"name": "Accent 2",
+					"color": "#bedb39"
+				},
+				{
+					"slug": "accent-3",
+					"name": "Accent 3",
+					"color": "#dba507"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Contrast 2",
+					"color": "#f1f1f1"
+				},
+				{
+					"slug": "contrast-3",
+					"name": "Contrast 3",
+					"color": "#f9f9f9"
+				},
+				{
+					"slug": "base-2",
+					"name": "Base 2",
+					"color": "#1d2327"
+				},
+				{
+					"slug": "base-3",
+					"name": "Base 3",
+					"color": "#11171b"
+				}
+			],
+			"duotone": [
+				{
+					"name": "White / Accent 1",
+					"slug": "white-and-accent-1",
+					"colors": [ "#ffffff", "#1976d2" ]
+				},
+				{
+					"name": "White / Accent 2",
+					"slug": "white-and-accent-2",
+					"colors": [ "#ffffff", "#bedb39" ]
+				},
+				{
+					"name": "White / Accent 3",
+					"slug": "white-and-accent-3",
+					"colors": [ "#ffffff", "#dba507" ]
+				},
+				{
+					"name": "Base / Base 2",
+					"slug": "base-and-base-2",
+					"colors": [ "#ffffff", "#1d2327" ]
+				},
+				{
+					"name": "Accent 1 / White",
+					"slug": "accent-1-and-white",
+					"colors": [ "#1976d2", "#ffffff" ]
+				},
+				{
+					"name": "Accent 2 / White",
+					"slug": "accent-2-and-white",
+					"colors": [ "#bedb39", "#ffffff" ]
+				},
+				{
+					"name": "Accent 3 / White",
+					"slug": "accent-3-and-white",
+					"colors": [ "#dba507", "#ffffff" ]
+				},
+				{
+					"name": "Base 2 / Base",
+					"slug": "base-2-and-base",
+					"colors": [ "#1d2327", "#ffffff" ]
+				}
+			]
+		}
+	}
+}

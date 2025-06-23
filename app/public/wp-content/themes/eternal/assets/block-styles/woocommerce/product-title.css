@@ -1,0 +1,8 @@
+.wc-block-components-product-title.is-style-links-plain a,
+.wc-block-components-product-title.is-style-links-underline-on-hover a {
+	text-decoration: none;
+}
+
+.wc-block-components-product-title.is-style-links-underline-on-hover a:hover {
+	text-decoration: underline;
+}

@@ -1,0 +1,1286 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Eternal 1.4.3\n"
+"POT-Creation-Date: 2025-02-28 11:08+0000\n"
+"PO-Revision-Date: 2023-11-24 15:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: UXL Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/block-patterns.php:18
+msgctxt "Block pattern category"
+msgid "Eternal: Images"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Patterns containing images."
+msgstr ""
+
+#: inc/block-patterns.php:26
+msgctxt "Block pattern category"
+msgid "Eternal: Content Sections"
+msgstr ""
+
+#: inc/block-patterns.php:27
+msgid "Content sections that can be added to any page, post, or template."
+msgstr ""
+
+#: inc/block-patterns.php:34
+msgctxt "Block pattern category"
+msgid "Eternal: Pages"
+msgstr ""
+
+#: inc/block-patterns.php:35
+msgid "Page designs that can be added to any template."
+msgstr ""
+
+#: inc/block-patterns.php:42
+msgctxt "Block pattern category"
+msgid "Eternal: Template Parts"
+msgstr ""
+
+#: inc/block-patterns.php:43
+msgid "Designs for template parts such as Header, Footer, Sidebar, Comments."
+msgstr ""
+
+#: inc/block-patterns.php:50
+msgctxt "Block pattern category"
+msgid "Eternal: Templates"
+msgstr ""
+
+#: inc/block-patterns.php:51
+msgid ""
+"Designs for templates such as Front Page, Pages, Single Posts, Archive, "
+"Index."
+msgstr ""
+
+#: inc/block-patterns.php:58
+msgctxt "Block pattern category"
+msgid "Eternal: Products"
+msgstr ""
+
+#: inc/block-patterns.php:59
+msgid "Products for use with WooCommerce plugin."
+msgstr ""
+
+#: inc/block-styles-non-core.php:18 inc/block-styles.php:34
+msgid "Links - plain"
+msgstr ""
+
+#: inc/block-styles-non-core.php:22 inc/block-styles.php:38
+msgid "Links - underline on hover"
+msgstr ""
+
+#: inc/block-styles-non-core.php:26
+msgid "Buttoned"
+msgstr ""
+
+#: inc/block-styles-non-core.php:30
+msgid "Icon"
+msgstr ""
+
+#: inc/block-styles-non-core.php:34
+msgid "Fill Width of Parent Container"
+msgstr ""
+
+#: inc/block-styles-non-core.php:38
+msgid "Show 1st gallery image on hover"
+msgstr ""
+
+#: inc/block-styles.php:18
+msgid "Gradient text 1"
+msgstr ""
+
+#: inc/block-styles.php:22
+msgid "Gradient text 2"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "Gradient text 3"
+msgstr ""
+
+#: inc/block-styles.php:30
+msgid "Gradient text 4"
+msgstr ""
+
+#: inc/block-styles.php:42
+msgid "Dotted"
+msgstr ""
+
+#: inc/block-styles.php:46
+msgid "Dotted (medium)"
+msgstr ""
+
+#: inc/block-styles.php:50
+msgid "Dotted (large)"
+msgstr ""
+
+#: inc/block-styles.php:54
+msgid "Dashed"
+msgstr ""
+
+#: inc/block-styles.php:58
+msgid "Fading"
+msgstr ""
+
+#: inc/block-styles.php:62
+msgid "Inline"
+msgstr ""
+
+#: inc/block-styles.php:66 patterns/a-page-homepage-contractor.php:35
+#: patterns/a-page-homepage-contractor.php:79
+#: patterns/a-page-homepage-contractor.php:115
+#: patterns/circular-image-text.php:22
+msgid "Circle"
+msgstr ""
+
+#: inc/block-styles.php:70
+msgid "Disc"
+msgstr ""
+
+#: inc/block-styles.php:74
+msgid "Line"
+msgstr ""
+
+#: inc/block-styles.php:78
+msgid "Check"
+msgstr ""
+
+#: inc/block-styles.php:82
+msgid "Cross"
+msgstr ""
+
+#: inc/block-styles.php:86
+msgid "Star"
+msgstr ""
+
+#: inc/block-styles.php:90
+msgid "Arrow"
+msgstr ""
+
+#: inc/block-styles.php:94
+msgid "Chevron"
+msgstr ""
+
+#: inc/block-styles.php:98
+msgid "Counter"
+msgstr ""
+
+#: inc/block-styles.php:102
+msgid "No Style"
+msgstr ""
+
+#: inc/block-styles.php:106
+msgid "Stripes with no border"
+msgstr ""
+
+#: inc/block-styles.php:110
+msgid "Rounded - small"
+msgstr ""
+
+#: inc/block-styles.php:114
+msgid "Rounded - medium"
+msgstr ""
+
+#: inc/block-styles.php:118
+msgid "Rounded - large"
+msgstr ""
+
+#: inc/block-styles.php:122
+msgid "Circle - top align"
+msgstr ""
+
+#: inc/block-styles.php:126
+msgid "Circle - middle align"
+msgstr ""
+
+#: inc/block-styles.php:130
+msgid "Circle - bottom align"
+msgstr ""
+
+#: inc/block-styles.php:134
+msgid "Circle on Current"
+msgstr ""
+
+#: inc/block-styles.php:138
+msgid "Button"
+msgstr ""
+
+#: inc/block-styles.php:142
+msgid "No Border"
+msgstr ""
+
+#: inc/block-styles.php:146
+msgid "Last child Group visible on hover"
+msgstr ""
+
+#: inc/block-styles.php:150
+msgid "Last child Group visible on hover (not in Editor)"
+msgstr ""
+
+#: inc/block-styles.php:154
+msgid "Shift Left (small)"
+msgstr ""
+
+#: inc/block-styles.php:158
+msgid "Shift Right (small)"
+msgstr ""
+
+#: inc/block-styles.php:162
+msgid "Shift Left (medium)"
+msgstr ""
+
+#: inc/block-styles.php:166
+msgid "Shift Right (medium)"
+msgstr ""
+
+#: inc/block-styles.php:170
+msgid "Shift Left (large)"
+msgstr ""
+
+#: inc/block-styles.php:174
+msgid "Shift Right (large)"
+msgstr ""
+
+#: inc/template-part-areas.php:18
+msgid "Comments"
+msgstr ""
+
+#: inc/template-part-areas.php:19
+msgid ""
+"The comments template part area, typically found in the single post template."
+msgstr ""
+
+#: inc/template-part-areas.php:25
+msgid "Sidebar"
+msgstr ""
+
+#: inc/template-part-areas.php:26
+msgid "The sidebar template part area."
+msgstr ""
+
+#: inc/template-part-areas.php:32
+msgid "Products"
+msgstr ""
+
+#: inc/template-part-areas.php:33
+msgid ""
+"The products template part area, typically found in the product archive "
+"templates."
+msgstr ""
+
+#: inc/theme-page.php:11
+msgid "Installing..."
+msgstr ""
+
+#: inc/theme-page.php:12
+msgid "Activating..."
+msgstr ""
+
+#: inc/theme-page.php:57 inc/theme-page.php:149
+msgid "Demo Site"
+msgstr ""
+
+#: inc/theme-page.php:62 inc/theme-page.php:140
+msgid "Starter Sites"
+msgstr ""
+
+#: inc/theme-page.php:85
+#, php-format
+msgid "Welcome to the %s theme."
+msgstr ""
+
+#: inc/theme-page.php:92
+#, php-format
+msgid "Check out the theme page for help changing the %s."
+msgstr ""
+
+#: inc/theme-page.php:93
+msgid "homepage design"
+msgstr ""
+
+#: inc/theme-page.php:99
+#, php-format
+msgid "Import the %s available right now for your new website."
+msgstr ""
+
+#: inc/theme-page.php:105
+#, php-format
+msgid "Explore ready to go %s available right now for your new website."
+msgstr ""
+
+#: inc/theme-page.php:125 inc/theme-page.php:126
+msgid "Theme Help"
+msgstr ""
+
+#: inc/theme-page.php:144
+msgid "Starter Sites Pro"
+msgstr ""
+
+#: inc/theme-page.php:174
+msgid "Preview the theme demo"
+msgstr ""
+
+#: inc/theme-page.php:180
+msgid ""
+"Install the Starter Sites plugin and choose from our handpicked collection "
+"of demo websites."
+msgstr ""
+
+#: inc/theme-page.php:181 inc/theme-page.php:187 inc/theme-page.php:192
+msgid "Each starter site is designed to integrate perfectly with the theme."
+msgstr ""
+
+#: inc/theme-page.php:182
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/theme-page.php:186
+msgid ""
+"Activate the Starter Sites plugin and choose from our handpicked collection "
+"of demo websites."
+msgstr ""
+
+#: inc/theme-page.php:188
+msgid "Activate Plugin"
+msgstr ""
+
+#: inc/theme-page.php:193
+msgid "Browse Sites"
+msgstr ""
+
+#: inc/theme-page.php:214
+msgid "Quick Home Page Setup"
+msgstr ""
+
+#: inc/theme-page.php:215
+msgid ""
+"The Front Page template is used to display the home page of your new website."
+msgstr ""
+
+#: inc/theme-page.php:216
+msgid "You can edit it directly and change the content, layout and design."
+msgstr ""
+
+#: inc/theme-page.php:217
+msgid ""
+"The theme provides a variety of designs you can use to quickly change how "
+"your home page is presented."
+msgstr ""
+
+#: inc/theme-page.php:218
+msgid ""
+"A static home page is the default design, however if you prefer a more "
+"traditional blog home page, you can change this by editing the Front Page "
+"template and selecting Home Blog in the Design area."
+msgstr ""
+
+#: inc/theme-page.php:219
+msgid ""
+"Alternatively, if you prefer to display the content from the page selected "
+"as your homepage in Settings > Reading, you can select the \"Homepage (page "
+"content)\" design."
+msgstr ""
+
+#: inc/theme-page.php:220
+msgid "Edit Front Page"
+msgstr ""
+
+#: inc/theme-page.php:233
+msgid "Quick Editor Links"
+msgstr ""
+
+#: inc/theme-page.php:236
+msgid "Site"
+msgstr ""
+
+#: inc/theme-page.php:240
+msgid "Navigation Menus"
+msgstr ""
+
+#: inc/theme-page.php:244
+msgid "Styles"
+msgstr ""
+
+#: inc/theme-page.php:248
+msgid "Templates"
+msgstr ""
+
+#: inc/theme-page.php:252
+msgid "Template Parts"
+msgstr ""
+
+#: inc/theme-page.php:256
+msgid "Patterns"
+msgstr ""
+
+#: inc/theme-page.php:260
+msgid "Theme Links"
+msgstr ""
+
+#: inc/theme-page.php:263
+msgid "Support"
+msgstr ""
+
+#: inc/theme-page.php:267
+msgid "Demos"
+msgstr ""
+
+#: inc/theme-page.php:279
+msgid "Front Page template: the default Home Page design."
+msgstr ""
+
+#: inc/theme-page.php:291
+msgid "Front Page template: the ecommerce Home Page design."
+msgstr ""
+
+#: inc/theme-page.php:303
+msgid "Front Page template: the contractor Home Page design."
+msgstr ""
+
+#: inc/theme-page.php:315
+msgid "Front Page template: the interior designer Home Page design."
+msgstr ""
+
+#: inc/theme-page.php:327
+msgid "Front Page template: the auto center Home Page design."
+msgstr ""
+
+#: inc/theme-page.php:339
+msgid "Front Page template: changed to display the Home Blog design."
+msgstr ""
+
+#: inc/theme-page.php:409
+msgid "An Eternal child theme."
+msgstr ""
+
+#: inc/theme-page.php:411
+msgid "One theme. Endless possibilities."
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:18
+msgid "Specializing in"
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:18
+msgid "Home Improvement"
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:33
+#: patterns/a-page-homepage-contractor.php:113
+msgid "Shift Right"
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:38
+msgid "PLUMBING"
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:42
+msgid ""
+"As trusted plumbing contractors, we provide reliable, efficient, and "
+"affordable plumbing services."
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:77
+#: patterns/circular-image-text.php:20
+msgid "Shift Left"
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:82
+#: patterns/circular-image-text.php:25
+msgid "ELECTRICAL"
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:86
+#: patterns/circular-image-text.php:29
+msgid ""
+"As skilled electrical contractors, we offer expert solutions for residential "
+"and commercial projects."
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:118
+msgid "RENOVATE"
+msgstr ""
+
+#: patterns/a-page-homepage-contractor.php:122
+msgid ""
+"As a dedicated home renovation contractor, we transform spaces to meet your "
+"vision and lifestyle."
+msgstr ""
+
+#: patterns/b-about-us-interior-designer.php:9
+#: patterns/b-about-us-interior-designer.php:54 patterns/d-about-us-list.php:15
+#: patterns/home-intro.php:21
+msgid "About Us"
+msgstr ""
+
+#: patterns/b-about-us-interior-designer.php:58
+msgid ""
+"We specialize in designing luxurious residential spaces that blend elegance "
+"and comfort. Our expert team works closely with clients to create "
+"personalized interiors that reflect their unique style and needs."
+msgstr ""
+
+#: patterns/b-about-us-interior-designer.php:62
+msgid ""
+"From custom furnishings to curated décor, every detail is thoughtfully "
+"executed with precision and care. Using the finest materials and "
+"craftsmanship, we transform homes into timeless, sophisticated spaces that "
+"elevate daily living and offer a retreat from the ordinary."
+msgstr ""
+
+#: patterns/b-about-us-interior-designer.php:68
+msgid "Read More"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:17
+msgid "<strong>NEW</strong> COLLECTION"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:21
+msgid "FOR THIS <strong>SEASON</strong>"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:35
+msgid "SHOP NOW"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:57
+msgid "FREE DELIVERY"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:61
+msgid "On all orders"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:73
+msgid "SECURE PAYMENT"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:77
+msgid "Safe guarantee"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:89
+msgid "24/7 SUPPORT"
+msgstr ""
+
+#: patterns/b-large-image-ecommerce.php:93
+msgid "Customer service"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:21
+msgid "Welcome to Our Site"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:47
+#: patterns/process-steps-with-image.php:26 patterns/process-steps.php:15
+msgid "1"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:57
+msgid "DESIGN"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:61
+msgid ""
+"Transforming your ideas into innovative designs, we specialize in tailored "
+"solutions that meet your unique vision and project needs."
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:67
+#: patterns/b-large-image-services-overlap.php:107
+#: patterns/b-large-image-services-overlap.php:147
+msgid "READ MORE"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:87
+#: patterns/process-steps-with-image.php:48 patterns/process-steps.php:39
+msgid "2"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:97
+msgid "CREATE"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:101
+msgid ""
+"Bringing concepts to life with creative craftsmanship, ensuring every detail "
+"is carefully executed to meet the highest standards."
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:127
+#: patterns/process-steps-with-image.php:70 patterns/process-steps.php:63
+msgid "3"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:137
+msgid "BUILD"
+msgstr ""
+
+#: patterns/b-large-image-services-overlap.php:141
+msgid ""
+"From foundation to finishing touches, we construct durable, high-quality "
+"structures that align with your goals and exceed expectations."
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:8
+msgid "Pricing Table - 2 columns"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:19
+msgid "$19"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:23
+#: patterns/b-pricing-table-2-columns.php:107
+msgid "per month"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:29
+#: patterns/b-pricing-table-3-columns.php:25
+msgid "Starter Package"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:33
+msgid ""
+"Ideal for those who are just getting started and only need the basic "
+"features and single user support."
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:39
+msgid "Subscribe Today"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:51
+#: patterns/b-pricing-table-3-columns.php:65
+msgid "Security Tools"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:63
+#: patterns/b-pricing-table-3-columns.php:77
+msgid "Live Support"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:75
+#: patterns/b-pricing-table-3-columns.php:89
+#: patterns/b-pricing-table-3-columns.php:191
+msgid "Single User"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:87
+#: patterns/b-pricing-table-3-columns.php:101
+msgid "Basic Features"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:103
+msgid "$29"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:113
+msgid "Plus Package"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:117
+msgid ""
+"A must have for professionals and teams who need all the extras to take "
+"their projects to the next level."
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:123
+msgid "Subscribe Now"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:135
+msgid "Everything in Starter Package plus..."
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:147
+#: patterns/b-pricing-table-3-columns.php:179
+#: patterns/b-pricing-table-3-columns.php:281
+msgid "One-to-one Support"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:159
+#: patterns/b-pricing-table-3-columns.php:293
+msgid "Up to 10 Users"
+msgstr ""
+
+#: patterns/b-pricing-table-2-columns.php:171
+#: patterns/b-pricing-table-3-columns.php:203
+#: patterns/b-pricing-table-3-columns.php:305
+msgid "Bonus Addons"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:8
+msgid "Pricing Table - 3 columns"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:33
+#: patterns/b-pricing-table-3-columns.php:135
+#: patterns/b-pricing-table-3-columns.php:237
+msgid "$"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:37
+msgid "19"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:41
+#: patterns/b-pricing-table-3-columns.php:143
+#: patterns/b-pricing-table-3-columns.php:245
+msgid "/ month"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:51
+#: patterns/b-pricing-table-3-columns.php:153
+#: patterns/b-pricing-table-3-columns.php:255
+msgid "Subscribe"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:119
+msgid "Most Popular"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:127
+msgid "Pro Package"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:139
+msgid "29"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:167
+msgid "Enhanced Security"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:229
+msgid "Teams Package"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:241
+msgid "39"
+msgstr ""
+
+#: patterns/b-pricing-table-3-columns.php:269
+msgid "Everything in Pro plus..."
+msgstr ""
+
+#: patterns/call-to-action-cover.php:8
+msgid "Call to Action Cover"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:18
+msgid "Developed from years of"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:18
+msgid "experience"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:22
+msgid ""
+"Our team of passionate professionals is dedicated to transforming your "
+"vision into impactful media experiences that captivate audiences and drive "
+"results. Let's embark on a journey of innovation and excellence together."
+msgstr ""
+
+#: patterns/call-to-action-cover.php:28
+msgid "Get in touch"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:40
+msgid "Strategic Tailored Media Planning"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:44
+msgid "Targeted Social Media Advertising"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:48
+msgid "Creative Content Production"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:52
+msgid "Reputation Management and PR"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:56
+msgid "SEO Optimization for Online Dominance"
+msgstr ""
+
+#: patterns/call-to-action-cover.php:60
+msgid "Data-Driven Insights and Analytics"
+msgstr ""
+
+#: patterns/company-intro-button.php:8
+msgid "Company Intro with Button"
+msgstr ""
+
+#: patterns/company-intro-button.php:16
+msgid "Bespoke Creative Agency"
+msgstr ""
+
+#: patterns/company-intro-button.php:20
+msgid ""
+"We are a creative digital agency dedicated to delivering top-notch web "
+"design and development services. Our talented team specializes in crafting "
+"visually stunning, user-friendly websites that drive growth and enhance "
+"brand presence. Whether you're a startup or an established business, we "
+"bring your digital vision to life with precision and innovation."
+msgstr ""
+
+#: patterns/company-intro-button.php:24
+msgid ""
+"We offer a full suite of services, including responsive web design, custom "
+"development, e-commerce solutions, and digital marketing. Our expertise also "
+"covers UI/UX design, content management systems, and SEO, ensuring your "
+"website not only looks great but performs at its best. We leverage the "
+"latest technologies to provide scalable solutions tailored to your business "
+"needs."
+msgstr ""
+
+#: patterns/company-intro-button.php:28
+msgid ""
+"Partnering with us means working with a team committed to your success. We "
+"collaborate closely with you to create solutions that align with your brand "
+"and objectives, delivering measurable results. With a focus on quality, "
+"transparency, and customer satisfaction, we’re here to help your business "
+"thrive in the digital world."
+msgstr ""
+
+#: patterns/company-intro-button.php:34
+msgid "GET A QUOTE"
+msgstr ""
+
+#: patterns/d-about-us-list.php:8
+msgid "About Us with List"
+msgstr ""
+
+#: patterns/d-about-us-list.php:19
+msgid ""
+"We are dedicated to providing top-quality auto repair and maintenance "
+"services to keep your vehicle running smoothly and safely. With a team of "
+"certified technicians and a commitment to customer satisfaction, we offer a "
+"wide range of services, from routine maintenance to complex repairs. Trust "
+"us to deliver reliable care and exceptional service every time."
+msgstr ""
+
+#: patterns/d-about-us-list.php:25
+msgid "Certified and experienced technicians"
+msgstr ""
+
+#: patterns/d-about-us-list.php:29
+msgid "Comprehensive auto repair and maintenance services"
+msgstr ""
+
+#: patterns/d-about-us-list.php:33
+msgid "State-of-the-art diagnostic tools and equipment"
+msgstr ""
+
+#: patterns/d-about-us-list.php:37
+msgid "Fast, reliable service with transparent pricing"
+msgstr ""
+
+#: patterns/d-about-us-list.php:41
+msgid "Commitment to customer satisfaction and safety"
+msgstr ""
+
+#: patterns/d-cta-contacts.php:8
+msgid "Call to Action with Contacts"
+msgstr ""
+
+#: patterns/d-cta-contacts.php:17
+msgid "Professional Auto Repair &amp; Maintenance Services"
+msgstr ""
+
+#: patterns/d-cta-contacts.php:39
+msgid "555-456-7890"
+msgstr ""
+
+#: patterns/d-cta-contacts.php:53 patterns/large-cover-with-button.php:22
+msgid "BOOK APPOINTMENT"
+msgstr ""
+
+#: patterns/d-services-grid.php:8
+msgid "Services - Grid Layout"
+msgstr ""
+
+#: patterns/d-services-grid.php:19
+msgid "Maintenance"
+msgstr ""
+
+#: patterns/d-services-grid.php:25
+msgid "Oil Changes"
+msgstr ""
+
+#: patterns/d-services-grid.php:29
+msgid "Fluid Checks &amp; Top-ups"
+msgstr ""
+
+#: patterns/d-services-grid.php:33
+msgid "Tune-Ups"
+msgstr ""
+
+#: patterns/d-services-grid.php:47
+msgid "Brakes &amp; Suspension"
+msgstr ""
+
+#: patterns/d-services-grid.php:53
+msgid "Brake Services"
+msgstr ""
+
+#: patterns/d-services-grid.php:57
+msgid "Suspension"
+msgstr ""
+
+#: patterns/d-services-grid.php:61
+msgid "Steering Repairs"
+msgstr ""
+
+#: patterns/d-services-grid.php:75
+msgid "Engine &amp; Transmission"
+msgstr ""
+
+#: patterns/d-services-grid.php:81
+msgid "Engine Repairs"
+msgstr ""
+
+#: patterns/d-services-grid.php:85
+msgid "Diagnostics"
+msgstr ""
+
+#: patterns/d-services-grid.php:89
+msgid "Transmission Services"
+msgstr ""
+
+#: patterns/home-intro.php:8
+msgid "Intro"
+msgstr ""
+
+#: patterns/home-intro.php:11
+msgid "With new tools you can do new things"
+msgstr ""
+
+#: patterns/home-intro.php:15
+msgid "Opening up possibilities for innovation, efficiency, and creativity."
+msgstr ""
+
+#: patterns/home-intro.php:25
+msgid "Contact"
+msgstr ""
+
+#: patterns/home-services-alt.php:8 patterns/home-services.php:8
+msgid "Services"
+msgstr ""
+
+#: patterns/home-services-alt.php:11 patterns/home-services.php:11
+msgid "Our Services"
+msgstr ""
+
+#: patterns/home-services-alt.php:23 patterns/home-services.php:23
+msgid "Web Design and Development"
+msgstr ""
+
+#: patterns/home-services-alt.php:27 patterns/home-services.php:27
+msgid "Crafting Engaging Digital Experiences"
+msgstr ""
+
+#: patterns/home-services-alt.php:31 patterns/home-services.php:31
+msgid ""
+"Our web design and development services focus on creating visually stunning "
+"and user-friendly websites tailored to your brand. We blend creativity with "
+"functionality to ensure your online presence not only looks great but also "
+"performs seamlessly across all devices."
+msgstr ""
+
+#: patterns/home-services-alt.php:43 patterns/home-services.php:43
+msgid "SEO and Digital Marketing"
+msgstr ""
+
+#: patterns/home-services-alt.php:47 patterns/home-services.php:47
+msgid "Driving Targeted Traffic to Your Site"
+msgstr ""
+
+#: patterns/home-services-alt.php:51 patterns/home-services.php:51
+msgid ""
+"Our SEO and digital marketing services are designed to boost your online "
+"visibility and drive targeted traffic to your site. We use the latest "
+"strategies and tools to improve search engine rankings, engage your "
+"audience, and convert visitors into loyal customers."
+msgstr ""
+
+#: patterns/home-services-alt.php:63 patterns/home-services.php:63
+msgid "Content Creation and Management"
+msgstr ""
+
+#: patterns/home-services-alt.php:67 patterns/home-services.php:67
+msgid "Bringing Your Brand Story to Life"
+msgstr ""
+
+#: patterns/home-services-alt.php:71 patterns/home-services.php:71
+msgid ""
+"We offer comprehensive content creation and management services that help "
+"you tell your brand's story effectively. From compelling copywriting to "
+"engaging multimedia, we ensure that your content resonates with your "
+"audience and strengthens your brand identity."
+msgstr ""
+
+#: patterns/home-services-alt.php:87 patterns/home-services.php:87
+msgid "Ecommerce Solutions"
+msgstr ""
+
+#: patterns/home-services-alt.php:91 patterns/home-services.php:91
+msgid "Building Robust Online Stores"
+msgstr ""
+
+#: patterns/home-services-alt.php:95 patterns/home-services.php:95
+msgid ""
+"Our ecommerce solutions provide everything you need to run a successful "
+"online store. We design and develop custom ecommerce platforms that are "
+"secure, scalable, and easy to manage, enabling you to offer a seamless "
+"shopping experience to your customers."
+msgstr ""
+
+#: patterns/home-services-alt.php:107 patterns/home-services.php:107
+msgid "Graphic Design and Branding"
+msgstr ""
+
+#: patterns/home-services-alt.php:111 patterns/home-services.php:111
+msgid "Creating Visual Identities that Stand Out"
+msgstr ""
+
+#: patterns/home-services-alt.php:115 patterns/home-services.php:115
+msgid ""
+"Our graphic design and branding services help you create a strong, memorable "
+"brand identity. From logos to complete brand guidelines, we ensure that "
+"every visual element reflects your company's values and connects with your "
+"target audience."
+msgstr ""
+
+#: patterns/home-services-alt.php:127 patterns/home-services.php:127
+msgid "Video Production and Editing"
+msgstr ""
+
+#: patterns/home-services-alt.php:131 patterns/home-services.php:131
+msgid "Telling Your Story Through Visual Media"
+msgstr ""
+
+#: patterns/home-services-alt.php:135 patterns/home-services.php:135
+msgid ""
+"We provide professional video production and editing services that bring "
+"your brand's story to life. Whether it's promotional videos, corporate "
+"films, or social media content, we handle everything from concept to final "
+"cut, ensuring high-quality results that engage and inspire."
+msgstr ""
+
+#: patterns/image-on-laptop.php:8
+msgid "Laptop"
+msgstr ""
+
+#: patterns/image-on-phone.php:8
+msgid "Phone"
+msgstr ""
+
+#: patterns/image-on-tablet.php:8
+msgid "Tablet"
+msgstr ""
+
+#: patterns/image-on-tv.php:8
+msgid "TV"
+msgstr ""
+
+#: patterns/image-on-tv.php:19
+msgid "TV BRAND"
+msgstr ""
+
+#: patterns/large-cover-interior-designer.php:8
+msgid "Large Cover"
+msgstr ""
+
+#: patterns/large-cover-interior-designer.php:15
+msgid "Specializing in luxury residential interiors"
+msgstr ""
+
+#: patterns/large-cover-with-button.php:8
+msgid "Large Cover with Button"
+msgstr ""
+
+#: patterns/latest-news.php:8
+msgid "News"
+msgstr ""
+
+#: patterns/latest-news.php:11
+msgid "Latest News"
+msgstr ""
+
+#: patterns/process-steps-auto-center.php:8 patterns/process-steps.php:8
+msgid "Process Steps"
+msgstr ""
+
+#: patterns/process-steps-auto-center.php:11
+msgid "How It Works"
+msgstr ""
+
+#: patterns/process-steps-auto-center.php:15
+msgid "We provide complete auto repair and maintenance services."
+msgstr ""
+
+#: patterns/process-steps-auto-center.php:31
+msgid "Select Your Service"
+msgstr ""
+
+#: patterns/process-steps-auto-center.php:43
+msgid "Schedule Your Appointment"
+msgstr ""
+
+#: patterns/process-steps-auto-center.php:55
+msgid "Drop Off Your Vehicle for Service"
+msgstr ""
+
+#: patterns/process-steps-auto-center.php:67
+msgid "Pick Up Your Car and Keys"
+msgstr ""
+
+#: patterns/process-steps-with-image.php:8
+msgid "Process Steps with Image"
+msgstr ""
+
+#: patterns/process-steps-with-image.php:34 patterns/process-steps.php:23
+msgid "Discovery & Strategy"
+msgstr ""
+
+#: patterns/process-steps-with-image.php:37 patterns/process-steps.php:27
+msgid ""
+"We begin by understanding your business goals, target audience, and "
+"competition. Through collaborative workshops, we develop a tailored digital "
+"strategy that aligns with your vision."
+msgstr ""
+
+#: patterns/process-steps-with-image.php:56 patterns/process-steps.php:47
+msgid "Design & Development"
+msgstr ""
+
+#: patterns/process-steps-with-image.php:59 patterns/process-steps.php:51
+msgid ""
+"Our expert team crafts visually stunning and user-friendly websites. We "
+"focus on responsive design, seamless navigation, and cutting-edge "
+"technologies to ensure your site is both beautiful and functional."
+msgstr ""
+
+#: patterns/process-steps-with-image.php:78 patterns/process-steps.php:71
+msgid "Testing & Optimization"
+msgstr ""
+
+#: patterns/process-steps-with-image.php:81 patterns/process-steps.php:75
+msgid ""
+"Before launch, we rigorously test your website across devices and browsers. "
+"We fine-tune performance and optimize SEO to ensure a smooth and impactful "
+"user experience."
+msgstr ""
+
+#: patterns/process-steps-with-image.php:92 patterns/process-steps.php:87
+msgid "4"
+msgstr ""
+
+#: patterns/process-steps-with-image.php:100 patterns/process-steps.php:95
+msgid "Launch & Support"
+msgstr ""
+
+#: patterns/process-steps-with-image.php:103 patterns/process-steps.php:99
+msgid ""
+"Post-launch, we provide ongoing support and maintenance, continuously "
+"monitoring and updating your site to keep it secure, up-to-date, and "
+"performing at its best."
+msgstr ""
+
+#: patterns/wc-hidden-coming-soon-intro.php:9
+msgid "Almost ready!"
+msgstr ""
+
+#: patterns/wc-hidden-coming-soon-intro.php:13
+msgid "Your new favorite finds are on their way."
+msgstr ""
+
+#: patterns/wc-hidden-coming-soon-intro.php:17
+msgid "Stay tuned for exclusive deals!"
+msgstr ""
+
+#: patterns/wc-hidden-order-confirmation-additional-fields-heading.php:9
+msgid "Additional information"
+msgstr ""
+
+#: patterns/wc-hidden-order-confirmation-billing-heading.php:9
+msgid "Billing address"
+msgstr ""
+
+#: patterns/wc-hidden-order-confirmation-downloads-heading.php:9
+msgid "Downloads"
+msgstr ""
+
+#: patterns/wc-hidden-order-confirmation-shipping-heading.php:9
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/wc-hidden-order-confirmation-totals-heading.php:9
+msgid "Order details"
+msgstr ""
+
+#: patterns/wc-hidden-related-products-heading.php:9
+msgid "You may also like..."
+msgstr ""
+
+#: patterns/wc-latest-products-1.php:13
+msgid "Latest Products"
+msgstr ""
+
+#: patterns/wc-latest-products-1.php:19
+msgid "VIEW ALL →"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Eternal"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://uxlthemes.com/theme/eternal/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"One theme. Endless possibilities. The Eternal full site editing (FSE) block "
+"theme comes with 6 different homepage designs for you to choose from, as "
+"well as options for full width pages or optional sidebar layouts, and "
+"various design patterns for your header and footer areas. With WooCommerce "
+"compatibility built-in, the Eternal WordPress theme boasts a variety of "
+"different product grid designs and layouts, as well as a selection of single "
+"product page styles to suit any online store. The theme also integrates "
+"perfectly with the Starter Sites plugin, enabling you to quickly and easily "
+"import and activate a variety of demo websites. From blog and news sites to "
+"business sites, agency websites and WooCommerce templates giving you a well "
+"crafted ecommerce website. Import pages, posts, products, templates, "
+"template parts, patterns, reusable blocks, fonts and images with just one "
+"click. Check out the available site demos at https://wpstartersites.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UXL Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://uxlthemes.com/"
+msgstr ""

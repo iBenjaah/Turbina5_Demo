@@ -1,0 +1,36 @@
+# Ignorar archivo de configuración de WordPress
+wp-config.php
+/app/public/wp-config.php
+
+# Ignorar directorios y archivos de sistema
+.DS_Store
+Thumbs.db
+.cache
+.idea/
+.vscode/
+
+# Ignorar directorios de dependencias
+node_modules/
+vendor/
+
+# Ignorar el núcleo de WordPress, plugins y temas que no son tuyos
+/app/public/wp-admin/
+/app/public/wp-includes/
+# /app/public/wp-content/plugins/ (descomenta si solo quieres versionar los tuyos)
+# /app/public/wp-content/themes/ (descomenta si solo quieres versionar el tuyo)
+
+# Ignorar archivos de logs y bases de datos
+*.log
+*.sql
+
+# --- LA PARTE MÁS IMPORTANTE: IGNORAR BACKUPS Y UPLOADS ---
+/app/public/wp-content/uploads/
+/app/public/wp-content/upgrade/
+/app/public/wp-content/updraft/
+/app/public/wp-content/backups-dup-lite/
+/app/public/wp-content/backup-migration-z89SaQ3uDU/
+/app/public/wp-content/cache/
+/app/public/wp-content/backups/
+
+# Ignorar archivos comprimidos en wp-content, una regla general segura
+/app/public/wp-content/**/*.zip

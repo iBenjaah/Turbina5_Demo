@@ -1,0 +1,72 @@
+ul.is-style-inline {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+ul.is-style-inline > li {
+	padding: 0 1.5em 0 0;
+}
+
+ul.is-style-circle,
+ul li.is-style-circle {
+	list-style: circle;
+}
+
+ul.is-style-disc,
+ul li.is-style-disc {
+	list-style: disc;
+}
+
+ul.is-style-line,
+ul li.is-style-line {
+	list-style: "- ";
+}
+
+ul.is-style-check,
+ul li.is-style-check {
+	list-style: "✓ ";
+}
+
+ul.is-style-cross,
+ul li.is-style-cross {
+	list-style: "✗ ";
+}
+
+ul.is-style-star,
+ul li.is-style-star {
+	list-style: "★ ";
+}
+
+ul.is-style-arrow,
+ul li.is-style-arrow {
+	list-style: "→ ";
+}
+
+ul.is-style-chevron,
+ul li.is-style-chevron {
+	list-style: "› ";
+}
+
+ul.is-style-check li::marker,
+ul li.is-style-check::marker,
+ul.is-style-cross li::marker,
+ul li.is-style-cross::marker {
+	font-weight: 900;
+}
+
+ul.is-style-counter li,
+ol.is-style-counter li {
+	counter-increment: li;
+}
+
+ul.is-style-counter li::marker,
+ol.is-style-counter li::marker {
+	font-weight: bold;
+	content: "#" counter(li) " ";
+}
+
+ul.is-style-none,
+ul li.is-style-none {
+	list-style: none;
+}

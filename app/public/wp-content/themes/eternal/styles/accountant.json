@@ -1,0 +1,103 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"version": 3,
+	"title": "Accountant",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"slug": "contrast",
+					"name": "Contrast",
+					"color": "#14111f"
+				},
+				{
+					"slug": "base",
+					"name": "Base",
+					"color": "#ffffff"
+				},
+				{
+					"slug": "accent-1",
+					"name": "Accent 1",
+					"color": "#d0ccde"
+				},
+				{
+					"slug": "accent-1-transparent",
+					"name": "Accent 1 Transparent",
+					"color": "#d0ccde0f"
+				},
+				{
+					"slug": "accent-2",
+					"name": "Accent 2",
+					"color": "#e4e1fe"
+				},
+				{
+					"slug": "accent-3",
+					"name": "Accent 3",
+					"color": "#4d34fa"
+				},
+				{
+					"slug": "contrast-2",
+					"name": "Contrast 2",
+					"color": "#25222f"
+				},
+				{
+					"slug": "contrast-3",
+					"name": "Contrast 3",
+					"color": "#636381"
+				},
+				{
+					"slug": "base-2",
+					"name": "Base 2",
+					"color": "#f6f6fc"
+				},
+				{
+					"slug": "base-3",
+					"name": "Base 3",
+					"color": "#eeeeee"
+				}
+			],
+			"duotone": [
+				{
+					"name": "White / Accent 1",
+					"slug": "white-and-accent-1",
+					"colors": [ "#ffffff", "#d0ccde" ]
+				},
+				{
+					"name": "White / Accent 2",
+					"slug": "white-and-accent-2",
+					"colors": [ "#ffffff", "#e4e1fe" ]
+				},
+				{
+					"name": "White / Accent 3",
+					"slug": "white-and-accent-3",
+					"colors": [ "#ffffff", "#4d34fa" ]
+				},
+				{
+					"name": "Base / Base 2",
+					"slug": "base-and-base-2",
+					"colors": [ "#ffffff", "#f6f6fc" ]
+				},
+				{
+					"name": "Accent 1 / White",
+					"slug": "accent-1-and-white",
+					"colors": [ "#d0ccde", "#ffffff" ]
+				},
+				{
+					"name": "Accent 2 / White",
+					"slug": "accent-2-and-white",
+					"colors": [ "#e4e1fe", "#ffffff" ]
+				},
+				{
+					"name": "Accent 3 / White",
+					"slug": "accent-3-and-white",
+					"colors": [ "#4d34fa", "#ffffff" ]
+				},
+				{
+					"name": "Base 2 / Base",
+					"slug": "base-2-and-base",
+					"colors": [ "#f6f6fc", "#ffffff" ]
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+a.wp-block-query-pagination-previous.is-style-links-plain,
+a.wp-block-query-pagination-previous.is-style-links-underline-on-hover {
+	text-decoration: none;
+}
+
+a.wp-block-query-pagination-previous.is-style-links-underline-on-hover:hover {
+	text-decoration: underline;
+}
+
+a.wp-block-query-pagination-previous.is-style-button {
+	text-decoration: none;
+	background: var(--wp--preset--color--accent-1);
+	color: var(--wp--preset--color--base);
+	border-radius: var(--wp--custom--button-radius);
+	padding: 0.375em 1em;
+}

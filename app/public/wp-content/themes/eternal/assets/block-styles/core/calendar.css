@@ -1,0 +1,8 @@
+.wp-block-calendar.is-style-links-plain a,
+.wp-block-calendar.is-style-links-underline-on-hover a {
+	text-decoration: none;
+}
+
+.wp-block-calendar.is-style-links-underline-on-hover a:hover {
+	text-decoration: underline;
+}

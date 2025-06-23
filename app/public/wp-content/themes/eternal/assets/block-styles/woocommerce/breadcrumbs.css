@@ -1,0 +1,17 @@
+.wc-block-breadcrumbs.is-style-links-plain a,
+.wc-block-breadcrumbs.is-style-links-underline-on-hover a {
+	text-decoration: none;
+}
+
+.wc-block-breadcrumbs.is-style-links-underline-on-hover a:hover {
+	text-decoration: underline;
+}
+
+.wc-block-breadcrumbs.is-style-buttoned a {
+	color: var(--wp--preset--color--contrast);
+	border-radius: var(--wp--custom--select-radius);
+	background-color: var(--wp--preset--color--base-2);
+	border: 1px solid var(--wp--preset--color--base-3);
+	text-decoration: none;
+	padding: 0.5em 0.75em;
+}
