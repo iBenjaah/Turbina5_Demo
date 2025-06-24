@@ -62,7 +62,7 @@ El archivo wp-config.php está intencionalmente excluido del repositorio (vía .
 Crea una copia del archivo wp-config-sample.php y renómbrala a wp-config.php.
 Edita wp-config.php con las credenciales de tu base de datos local: DB_NAME, DB_USER, DB_PASSWORD, DB_HOST.
 Actualizar URLs en la Base de Datos:
-Una vez importada la base de datos, es probable que las URLs sigan apuntando al dominio de producción. Usa un plugin como Better Search Replace para buscar la URL antigua (ej. https://www.turbina5.cl) y reemplazarla con tu URL local (ej. http://turbina5.local).
+Una vez importada la base de datos, es probable que las URLs sigan apuntando al dominio de producción. Usa un plugin como Better Search Replace para buscar la URL antigua.
 
 ¡Ahora deberías poder acceder al sitio desde tu entorno local!
 
@@ -76,4 +76,4 @@ El control de versiones se centra en la carpeta wp-content, ya que el núcleo de
 # ❯ Licencia
 Este proyecto es propiedad de Inversiones Rapel SpA.
 
-Creado y gestionado por Benjamín.
+Creado y gestionado por Benja²+C.
